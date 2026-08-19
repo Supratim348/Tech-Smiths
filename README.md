@@ -1,8 +1,6 @@
 # TechSmiths — QuadBot Spider Robot
 
-A single-page project showcase site for **QuadBot**, an Arduino-powered quadruped (spider) robot built as a college mini-project. The site presents the robot's features, specifications, build gallery, and feedback in a dark, circuit-board-inspired design.
-
-Built by **TechSmiths**, a team of second-year BCA students at Asansol Engineering College, for their 2024–25 mini-project.
+Built by **TechSmiths**, a team of second-year BCA students at Asansol Engineering College, for their 2024–25 mini-project. A single-page project showcase site for **QuadBot**, an Arduino-powered quadruped (spider) robot built as a college mini-project. The site presents the robot's features, specifications, build gallery, and feedback in a dark, circuit-board-inspired design.
 
 ---
 
